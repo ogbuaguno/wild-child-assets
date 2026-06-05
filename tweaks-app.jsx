@@ -8,9 +8,9 @@ const WC_TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
 }/*EDITMODE-END*/;
 
 const WC_LOGO_MAP = {
-  "Horizontal": { src: "assets/logo-horizontal.svg", cls: "" },
-  "Badge":      { src: "assets/logo-circular.svg",   cls: "is-badge" },
-  "Vertical":   { src: "assets/logo-vertical.svg",   cls: "is-vertical" }
+  "Horizontal": { src: "https://cdn.prod.website-files.com/69cc7021372926046a9c4cfb/6a22cdf2569510b6800204e6_logo-horizontal.svg", cls: "" },
+  "Badge":      { src: "https://cdn.prod.website-files.com/69cc7021372926046a9c4cfb/6a22cdf21d89d731ced7a554_logo-circular.svg",   cls: "is-badge" },
+  "Vertical":   { src: "https://cdn.prod.website-files.com/69cc7021372926046a9c4cfb/6a22cdf2b368ee37239ae6b2_logo-vertical.svg",   cls: "is-vertical" }
 };
 
 function WildChildTweaks() {
